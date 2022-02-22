@@ -1,0 +1,87 @@
+@charset "utf-8";
+
+
+@import url('https://fonts.googleapis.com/css2?family=Are+You+Serious&family=Dawning+of+a+New+Day&family=Roboto+Slab:wght@500&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Are+You+Serious&family=Dawning+of+a+New+Day&family=Roboto+Slab&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Are+You+Serious&family=Dawning+of+a+New+Day&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Are+You+Serious&family=Dawning+of+a+New+Day&family=Roboto+Slab:wght@100&display=swap');
+
+h1 {
+    color:rgb(141, 68, 8);
+    text-align: center;
+    font-family: roboto;
+    font-size: 3em;
+    font-weight: bolder;
+}
+
+h1#principal {
+    color: rgb(190, 49, 49);
+    text-align: left;
+}
+
+
+h2 {color: rgb(141, 68, 8);
+    text-align: left;
+    font-family: roboto;
+    font-size: 2em;
+    font-weight: bolderl;
+    }
+
+h2#subtitulo {
+    color: rgb(77, 63, 46);
+    text-align: left;
+}
+
+h3 { color: rgb(207, 87, 7);
+    text-align: left;
+    font-family: Dawning of a New Day;
+    font-size: 2em;
+    font-weight: bolder;
+    }
+
+p {
+    color: rgb(20, 20, 20);
+    text-align: justify;
+    font-family: roboto;
+    font-size: 2em;
+    font-weight: normal;
+}
+body {
+    background-color: rgb(219, 176, 118);
+}
+
+.titulo1 
+{font-family: Dawning of a New Day;
+color: rgb(102, 57, 57);
+font-weight: bolder;
+}
+
+.titulo2 
+{font-family: Dawning of a New Day;
+color: rgb(94, 45, 10);
+font-weight: lighter;
+}
+
+.titulo3 
+{ font-family: Dawning of a New Day;
+color: rgb(102, 90, 86);
+}
+
+.destaque
+{
+    color: rgb(236, 211, 194);
+    background-color: rgb(214, 133, 80)
+}
+
+p::first-letter {
+    color: red;
+    font-size: 3em;
+}
+
+a:hover{
+    color: rgb(20, 20, 20);
+}
+    

@@ -1,0 +1,43 @@
+@charset "utf-8";
+@font-face {
+    font-family: PartyStory ;
+    src: url(fonts/Party\ Story.ttf);
+}
+@font-face {
+    font-family:Garden ;
+    src: url(fonts/typogarden-demo.ttf);
+}
+@font-face {
+    font-family:mamae ;
+    src: url(fonts/Maria_lucia.ttf);
+}
+#tituloprincipal {
+    font-family: PartyStory ;
+    font-weight: normal;
+    font-size: 5em;
+    color: brown;
+    text-align: center;
+}
+.subtitulo {
+    font-family: Garden ;
+    font-weight: normal;
+    font-size: 4em;
+    color: rgb(112, 29, 29);
+    text-align: left;
+}
+body {
+    font-family: mamae ;
+    font-weight: normal;
+    font-size: 3em;
+    color: black;
+    text-align: justify;
+    background-color: rgb(226, 202, 166);
+}
+p:hover {
+    color: crimson;
+}
+p::first-letter{
+    font-size: 5em;
+    color: rgb(97, 26, 26);
+}
+

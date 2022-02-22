@@ -1,0 +1,42 @@
+@charset "utf-8";
+@font-face {
+    font-family:Pancakes;
+    src: url(fonts/Pumpkin\ Pancakes.ttf);
+}
+@font-face {
+    font-family: JaneAusten;
+    src: url(fonts/JaneAust.ttf);
+}
+@font-face {
+    font-family:Chapaza;
+    src: url(fonts/Chapaza.ttf);
+}
+
+#titulo-principal {
+    font-family: Pancakes;
+    font-weight:normal;
+    font-size:3em;
+    font-style:normal;
+    color:#573d14 ;
+    text-align: center;
+    }
+
+.subtitulo {
+    font-family: JaneAusten;
+    font-weight:normal;
+    font-size:2em;
+    font-style:normal;
+    color: #573c12;
+    text-align: left;
+    }
+
+body {
+    font-family:Chapaza;
+    font-size:1em;
+    font-weight:normal;
+    font-style:normal;
+    color: black;
+    background-color: #d8c5a5;
+    text-align: justify;
+    text-indent: 30px;
+}

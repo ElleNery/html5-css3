@@ -1,0 +1,25 @@
+p{
+    color:red;
+}
+
+a:link {
+    color: midnightblue;
+}
+
+a:hover {
+  color: forestgreen;  
+}
+
+p::first-letter{
+    font-size: 28px;
+    color: green;
+    font-weight: bolder;
+}
+
+p:first-child{
+    color: yellow !important;
+}
+
+div:hover{
+    background-color: silver;
+}

@@ -1,0 +1,23 @@
+@charset "utf-8";
+body{
+    background-color: blanchedalmond;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+}
+h1{
+    color: brown;
+    background-color: cornsilk;
+}
+h2{
+    color: rgb(83, 21, 21);
+    }
+
+h3{
+    color: rgb(70, 31, 31);
+}
+h4{
+    color: rgb(131, 13, 13);
+}
+p{
+    text-align: justify;
+}

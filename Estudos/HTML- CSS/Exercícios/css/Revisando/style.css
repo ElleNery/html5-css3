@@ -1,0 +1,27 @@
+@charset "UTF-8";
+
+body {
+    background-color:#EF7AF5;
+    
+    font-family: cursive;
+
+    font-size: 20px;
+}
+
+h1 {
+    color:#1E8AF5;
+    text-align: center;
+    text-shadow:1px 1px 2px #2e0a25;
+    background-image: -o-linear-gradient(#962477, #a31a7e96);
+    background-image: -webkit-linear-gradient(#ee3ebf, #a31a7e96);
+}
+
+
+h2 {
+    color: #5EF534;
+
+}
+
+p {
+    text-align: justify;
+}
