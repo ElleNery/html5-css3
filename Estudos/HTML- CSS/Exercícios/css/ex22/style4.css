@@ -1,0 +1,11 @@
+@charset "Utf-8";
+
+body{
+    height: 98vh;
+    border: 1px dashed black;
+    background-image: url(https://img.freepik.com/free-vector/cute-cat-hole-cartoon-vector-icon-illustration-animal-nature-icon-concept-isolated-premium-vector-flat-cartoon-style_138676-4236.jpg?t=st=1652384162~exp=1652384762~hmac=1cf21e4b2aec1bf6a769082012f4e7f2b980be96009849e80b1ca8ddfae9ff1b&w=740);
+
+    background-size: 100px;
+    background-repeat: no-repeat;
+    background-position: right bottom;
+}
