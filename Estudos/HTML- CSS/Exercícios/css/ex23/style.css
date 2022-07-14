@@ -6,19 +6,20 @@ body {
 }
 
 table{
-    width: 500px;
+    width: 400px;
+    height: 400px;
     border-collapse: collapse;
     }
 
-tr.linha{
-    background-color: aqua;
-}
 
-td.dado{
-    background-color: blueviolet;
-}
 
 td{
     border: 3px solid rgb(237, 28, 143);
     padding: 10px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.numero{
+    text-align: left;
 }
