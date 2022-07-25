@@ -1,0 +1,22 @@
+@charset "utf-8" ;
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    color: blue;
+}
+
+table{
+    width: 300px;
+    border-collapse: collapse;
+}
+
+td,th{
+    border: 2px solid rgb(113, 41, 155);
+    padding: 12px;
+}
+
+thead, tfoot{
+    background-color: rgb(204, 88, 162);
+    color: azure;
+    font-weight: lighter;
+}
